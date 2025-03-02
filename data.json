@@ -1,7 +1,27 @@
 [
   {
-    "book_name": "IGCSE 9-1 (Physics)",
+    "book_name": "IGCSE 9-1 Physics",
     "subject": "Physics",
     "url": "https://mega.nz/file/XIAREaJQ#NYToaSsFV5v5kHVwhF8aDb54euugH-OVn56r_lrI9Bg"
+  },
+  {
+    "book_name": "IGCSE 9-1 Chemistry",
+    "subject": "Chemistry",
+    "url": "https://mega.nz/file/uZBnmYCI#OxA0Iket0umh8uVo7nSFadEbRqo71cmXbwB30hqu4lI"
+  },
+  {
+    "book_name": "IGCSE 9-1 Biology",
+    "subject": "Biology",
+    "url": "https://mega.nz/file/CIYFhSIJ#LBP-Cn-5JugWN1kGS0OjhPjckbog4mnE3P0N9doNhSU"
+  },
+  {
+    "book_name": "IGCSE 9-1 Further Pure Maths",
+    "subject": "Further Pure Maths",
+    "url": "https://mega.nz/file/KQJH1Y5I#MZiFrNkaRR_DWM7JLe-xtz_GrboPNILoa-hMISlO0AU"
+  },
+  {
+    "book_name": "IGCSE 9-1 Commerce",
+    "subject": "Commerce",
+    "url": "https://mega.nz/file/vQgT2ZaS#ZgQ9VtBLVHEhnFeUcYPdAGNTGcu8CaHr7il8bZiWrOQ"
   }
 ]
